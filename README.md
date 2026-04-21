@@ -2,6 +2,11 @@
 
 Created by Damian Cavanagh in August 2025. 
 
+
+## Download This Shortcut
+- You can download this Shortcut [here](https://github.com/dhcav/FOG/raw/refs/heads/main/FOG.shortcut)
+- It can also be downloaded by clicking the Shortcut file above, then clicking 'View Raw'
+
 This Shortcut uses the ipsw.me API to allow easy downloading of Apple platform firmware.
 
 You can search for firmware:
